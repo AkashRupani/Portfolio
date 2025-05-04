@@ -160,6 +160,6 @@ export const socialMedia = [
   {
     id: 2,
     img: "/link.svg",
-    link: "www.linkedin.com/in/akash-rupani",
+    link: "https://linkedin.com/in/akash-rupani",
   },
 ];
